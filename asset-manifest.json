@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ready-to-Pack/static/css/main.4d92a0aa.css",
+    "main.js": "/Ready-to-Pack/static/js/main.b3d7d648.js",
+    "index.html": "/Ready-to-Pack/index.html",
+    "main.4d92a0aa.css.map": "/Ready-to-Pack/static/css/main.4d92a0aa.css.map",
+    "main.b3d7d648.js.map": "/Ready-to-Pack/static/js/main.b3d7d648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d92a0aa.css",
+    "static/js/main.b3d7d648.js"
+  ]
+}
